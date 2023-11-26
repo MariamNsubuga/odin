@@ -3,4 +3,11 @@ img{
     margin-left: 10%;
     margin-right: 10%;
 }
+body{
+    background-color: blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
  
+    align-content: center;
+}
